@@ -8,7 +8,7 @@ List the technologies you have used in your project, such as:
 ### Screenshot
 
 *in desktop:
-![test](/shop/screenshots/Screenshot from 2023-08-14 11-25-49.png)
+![test](shop/screenshots/Screenshot from 2023-08-14 11-25-49.png)
 *in mobile:
-![test1](/shop/screenshots/Screen Shot 2023-08-14 at 11.20.48.png)
+![test1](shop/screenshots/Screen Shot 2023-08-14 at 11.20.48.png)
 
